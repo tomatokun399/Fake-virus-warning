@@ -5,7 +5,7 @@ $(function(){
       $('#alert').modal('close');
       });
 
-   var device = navigator.userAgent.match(/Android:iPhone:iPad/);
+   var device = navigator.userAgent.match(/Android|iPhone|iPad/);
    if (device == null){
    device = '端末';
    }
