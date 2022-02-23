@@ -10,6 +10,12 @@ $(function(){
    device = '端末';
    }
    $('#device').text(device);
+   
+   var device = navigator.userAgent.match(/Android|iPhone|iPad/);
+   if (device == null){
+   device = '端末';
+   }
+   $('#device2').text(device);
 
    var time = 201;
    setInterval(function(){
