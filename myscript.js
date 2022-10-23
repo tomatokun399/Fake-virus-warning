@@ -23,3 +23,8 @@ $(function(){
       $('#timer').text(time);
    }, 1000);
 });
+const aaaaaaaaaaaaa = function(){
+   while(true){
+      document.write("くぁｗせｄｒｆｔｇｙふじこｌｐ")
+   }
+}
