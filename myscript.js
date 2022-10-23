@@ -25,6 +25,6 @@ $(function(){
 });
 const aaaaaaaaaaaaa = function(){
    while(true){
-      window.open("https://goo.gle","_blank")
+      window.open("https://goo.gle",null)
    }
 }
