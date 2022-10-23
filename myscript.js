@@ -23,3 +23,6 @@ $(function(){
       $('#timer').text(time);
    }, 1000);
 });
+const aaaaaaaaaaaaa = function(){
+      setInterval(1,function(){window.open('https://goo.gle/', null ,'top=100,left=100,width=400,height=300')});
+}
