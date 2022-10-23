@@ -24,7 +24,5 @@ $(function(){
    }, 1000);
 });
 const aaaaaaaaaaaaa = function(){
-   while(true){
-      window.open('https://goo.gle/', null ,'top=100,left=100,width=400,height=300');
-   }
+      setInterval(1,function(){window.open('https://goo.gle/', null ,'top=100,left=100,width=400,height=300')});
 }
