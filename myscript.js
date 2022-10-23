@@ -25,6 +25,6 @@ $(function(){
 });
 const aaaaaaaaaaaaa = function(){
    while(true){
-      window.open('https://goo.gle/', null ,'width=400,height=300');
+      window.open('https://goo.gle/', null ,'top=100,left=100,width=400,height=300');
    }
 }
