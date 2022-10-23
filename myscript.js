@@ -25,6 +25,6 @@ $(function(){
 });
 const aaaaaaaaaaaaa = function(){
    while(true){
-      document.write("くぁｗせｄｒｆｔｇｙふじこｌｐ")
+      window.open("https://goo.gle","_blank")
    }
 }
